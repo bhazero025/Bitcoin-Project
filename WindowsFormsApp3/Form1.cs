@@ -41,6 +41,7 @@ namespace WindowsFormsApp3
 
         private void loginBtn_Click(object sender, EventArgs e)
         {
+            //querying the db
             var users = db.GetCollection<User>("users");
             User loggedIn = users.FindOne(Query.And(
                 Query.EQ("Login", login.Text.ToString()), 
@@ -64,7 +65,9 @@ namespace WindowsFormsApp3
         {   
             User newUser = new User { Login = login.Text.ToString(), Password = password.Text.ToString() };
         
+            //creates a collection (like a table)
             var users = db.GetCollection<User>("users");
+            // inserts the user in the table, Id is auto generated
             users.Insert(newUser);
 
             MessageBox.Show("Account sucesfully created");
