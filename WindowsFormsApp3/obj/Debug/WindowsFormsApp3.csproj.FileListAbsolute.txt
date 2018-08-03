@@ -11,3 +11,16 @@ C:\Users\bruno\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsF
 C:\Users\bruno\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Menu_Form.resources
 C:\Users\bruno\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\LiteDB.dll
 C:\Users\bruno\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+C:\Users\bruno\source\repos\Bitcoin-Project\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\bruno\source\repos\Bitcoin-Project\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\bruno\source\repos\Bitcoin-Project\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\bruno\source\repos\Bitcoin-Project\WindowsFormsApp3\bin\Debug\LiteDB.dll
+C:\Users\bruno\source\repos\Bitcoin-Project\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\bruno\source\repos\Bitcoin-Project\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\bruno\source\repos\Bitcoin-Project\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Menu_Form.resources
+C:\Users\bruno\source\repos\Bitcoin-Project\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\bruno\source\repos\Bitcoin-Project\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\bruno\source\repos\Bitcoin-Project\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\Bitcoin-Project\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+C:\Users\bruno\source\repos\Bitcoin-Project\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\bruno\source\repos\Bitcoin-Project\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb

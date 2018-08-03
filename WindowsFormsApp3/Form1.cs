@@ -37,6 +37,7 @@ namespace WindowsFormsApp3
         private void Form1_Load(object sender, EventArgs e)
         {
             password.PasswordChar = '*';
+            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
         }
 
         private void loginBtn_Click(object sender, EventArgs e)
